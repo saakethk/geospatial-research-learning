@@ -1,0 +1,9 @@
+pystac-client
+shapely
+rasterio
+rioxarray
+matplotlib
+geopandas[all]
+xarray-spatial
+dask
+odc-stac
